@@ -1,1 +1,2 @@
-# detecting_drowsiness_in_a_user_by_analyzing_their_eye_state
+# -detects-drowsiness-in-a-user-by-analyzing-their-eye-state-open-or-closed-
+Design a system that detects drowsiness in a user by analyzing their eye state (open or closed) 
